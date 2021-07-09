@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[![Beo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beobiebom&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Beo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beobiebom&show_icons=true&theme=onedark)](https://github.com/beobiebom?tab=repositories)
 
 
 [instagram]: https://www.instagram.com/mink.duckk/
