@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Facebook" width="150px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="Instagram" width="158px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Instagram" width="159px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
@@ -30,6 +30,11 @@
 <br />
 
 [![Beo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beobiebom&show_icons=true&theme=onedark)](https://github.com/beobiebom?tab=repositories)
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/mink.duckk/
