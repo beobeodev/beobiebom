@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Facebook" width="22px" src="https://image.flaticon.com/icons/png/32/733/733547.png" />][facebook]
+[<img align="left" alt="Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/32/2111/2111463.png" />][instagram]
 
 <br />
