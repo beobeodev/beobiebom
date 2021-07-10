@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-### Spotify Playing 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
-
 ### Connect with me:
 
 [<img align="left" alt="Facebook" width="150px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
